@@ -45,6 +45,7 @@
         android:text="@string/addcontact"
         android:id="@+id/save_contact"
         android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:onClick="addContact"/>
 
 </RelativeLayout>
