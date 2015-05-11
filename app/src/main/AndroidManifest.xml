@@ -16,6 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".CreateContact"
+            android:label="@string/title_activity_create_contact" >
+        </activity>
+        <activity
+            android:name=".ReadContacts"
+            android:label="@string/title_activity_read_contacts" >
+        </activity>
     </application>
 
 </manifest>
