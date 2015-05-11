@@ -43,7 +43,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/addcontact"
-        android:id="@+id/create_contact"
+        android:id="@+id/save_contact"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
 
