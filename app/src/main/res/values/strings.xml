@@ -6,4 +6,9 @@
     <string name="create">Create Contact</string>
     <string name="title_activity_create_contact">CreateContact</string>
     <string name="title_activity_read_contacts">ReadContacts</string>
+    <string name="addcontact">Add Contact</string>
+    <string name="email">Email</string>
+    <string name="no">number</string>
+    <string name="v">View Contact</string>
+    <string name="del">Delete Contact</string>
 </resources>

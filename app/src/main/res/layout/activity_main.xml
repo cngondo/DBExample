@@ -10,18 +10,23 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="@string/create"/>
+        android:text="@string/create"
+        android:layout_marginTop="15dp"
+        android:id="@+id/create"/>
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="@string/view"/>
+        android:text="@string/v"
+        android:layout_marginTop="15dp"
+        android:id="@+id/view"/>
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="@string/del"/>
+        android:text="@string/del"
+        android:layout_marginTop="15dp"/>
 
 </LinearLayout>
